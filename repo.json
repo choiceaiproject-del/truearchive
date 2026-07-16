@@ -45,6 +45,61 @@
       "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/spotify/Eevee%20Spotify.ipa",
       "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/spotify/spotify.png?raw=true",
       "localizedDescription": "Enhance your listening experience with Spotify Plus!"
-    }
+    },
+     {
+      "name": "Nuvio Mobile",
+      "bundleIdentifier": "com.truearchive.nuvio",
+      "developerName": "TrueArchive",
+      "version": "0.2.21",
+      "versionDate": "2026-07-16",
+      "size": 115870000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/nuvio/Nuvio%20Mobile.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/nuvio/nuvio.png?raw=true",
+      "localizedDescription": "A great alternative to Stremio with add-on compatibility!"
+    },
+     {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.truearchive.duolingo",
+      "developerName": "duolingo",
+      "version": "7.130.0",
+      "versionDate": "2026-07-16",
+      "size": 208180000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/duolingo/Duolingo_%20Language%20%26%20Chess.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/duolingo/duolingo.png?raw=true",
+      "localizedDescription": "Duolingo just better."
+    },
+     {
+      "name": "Carista",
+      "bundleIdentifier": "com.truearchive.carista",
+      "developerName": "carista",
+      "version": "8.1",
+      "versionDate": "2026-07-16",
+      "size": 40000000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/carista/Carista%20OBD2%20Modded%20No%20Jailbreak%20Cheats%208.1%20Hacked%20IPA%20by%20iOSGods.com.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/carista/carista.png?raw=true",
+      "localizedDescription": "Analyze your cars health better with the Carista app."
+    },
+        {
+      "name": "Clue",
+      "bundleIdentifier": "com.truearchive.clue",
+      "developerName": "TrueArchive",
+      "version": "1.0.9",
+      "versionDate": "2026-07-16",
+      "size": 1395864371,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/clue/Clue%20iOS%20Mod.ipa",
+      "iconURL": "hhttps://github.com/choiceaiproject-del/truearchive/blob/main/Apps/clue/clue.png?raw=true",
+      "localizedDescription": "It's just clue."
+    },
+         {
+      "name": "X+",
+      "bundleIdentifier": "com.truearchive.x",
+      "developerName": "TrueArchive",
+      "version": "11.89",
+      "versionDate": "2026-07-16",
+      "size": 203130000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/x/BHTwitterX%2B%2B.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/x/x.png?raw=true",
+      "localizedDescription": "X with more features."
+    },
   ]
 }
