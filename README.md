@@ -5,6 +5,11 @@ A private repository for managing my IPA collection.
 
 ## Current Version
 v0.1.1
+# Update Log
+- Repo is avaliable directly through Sideloading Software (if supported)
+- Now including Quality of Life applications in Other
+- Added dedicated Streaming Directory
+- Improvements to catalog
 
 ## Project Goals
 - Organize & Secure IPA files
