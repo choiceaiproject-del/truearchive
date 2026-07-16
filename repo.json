@@ -1,8 +1,16 @@
 {
-  "version": "0.1",
-  "name": "Choice Hub",
+  "version": "0.1.1",
+  "name": "TrueArchive",
   "description": "Private IPA Repository",
   "apps": [
-    "apps/monopoly/metadata.json"
+    {
+      "name": "MONOPOLY: The Board Game",
+      "bundleIdentifier": "com.truearchive.monopoly",
+      "version": "1.0",
+      "versionDate": "2026-07-16",
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/monopoly/monopoly.ipa",
+      "localizedDescription": "MONOPOLY THE BOARD GAME.",
+      "iconURL": "YOUR_ICON_LINK"
+    }
   ]
 }
