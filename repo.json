@@ -1,6 +1,7 @@
 {
   "name": "TrueArchive",
   "identifier": "com.truearchive.repo",
+  "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/assets/TA.png?raw=true",
   "apps": [
     {
       "name": "MONOPOLY: The Board Game",
