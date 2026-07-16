@@ -23,6 +23,17 @@
       "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/stremio/Streamio(iOS).ipa",
       "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/stremio/stremio-2.png?raw=true",
       "localizedDescription": "Watch your favorite tv shows, movies, and even your favorite sports teams live!."
+    },
+     {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.truearchive.youtube",
+      "developerName": "YouTube",
+      "version": "21.08.3",
+      "versionDate": "2026-07-16",
+      "size": 125970000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/youtube/YouTube%20Plus.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/stremio/stremio-2.png?raw=true",
+      "localizedDescription": "Make your YouTube viewing experience better with YouTube Plus!"
     }
   ]
 }
