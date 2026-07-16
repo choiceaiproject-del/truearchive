@@ -9,10 +9,11 @@ v0.1.1
 ## Project Goals
 - Organize & Secure IPA files
 - Store app metadata
+- Ensure the preservation of media
 
 ## Repository Structure
 
-ChoiceHub/
+truearchive/
 ├── apps/
 ├── assets/
 ├── repo.json
