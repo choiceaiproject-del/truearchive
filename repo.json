@@ -1,15 +1,14 @@
 {
-  "version": "1",
   "name": "TrueArchive",
-  "description": "Private IPA Repository",
+  "identifier": "com.truearchive.repo",
   "apps": [
     {
-  "name": "MONOPOLY: The Board Game",
-  "bundleIdentifier": "com.truearchive.monopoly",
-  "version": 1,
-  "versionDate": "2026-07-16",
-  "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/monopoly/monopoly.ipa",
-  "localizedDescription": "MONOPOLY THE BOARD GAME."
-}
+      "name": "MONOPOLY: The Board Game",
+      "bundleIdentifier": "com.truearchive.monopoly",
+      "version": "1.0",
+      "versionDate": "2026-07-16T00:00:00Z",
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/monopoly/monopoly.ipa",
+      "localizedDescription": "MONOPOLY THE BOARD GAME."
+    }
   ]
 }
