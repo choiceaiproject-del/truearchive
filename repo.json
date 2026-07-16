@@ -34,6 +34,17 @@
       "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/youtube/YouTube%20Plus.ipa",
       "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/youtube/youtube.png?raw=true",
       "localizedDescription": "Make your YouTube viewing experience better with YouTube Plus!"
+    },
+      {
+      "name": "Spotify Plus",
+      "bundleIdentifier": "com.truearchive.spotify",
+      "developerName": "Spotify",
+      "version": "9.1.28",
+      "versionDate": "2026-07-16",
+      "size": 115870000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/spotify/Eevee%20Spotify.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/youtube/youtube.png?raw=true",
+      "localizedDescription": "Enhance your listening experience with Spotify Plus!"
     }
   ]
 }
