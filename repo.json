@@ -4,6 +4,17 @@
   "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/assets/TA.png?raw=true",
   "apps": [
     {
+      "name": "FinSecure",
+      "bundleIdentifier": "com.surgecord.finsec",
+      "developerName": "SurgecordTF",
+      "version": "1.0",
+      "versionDate": "2026-10-27",
+      "size": 1100000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/FinSec/FS0.5.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/02aa8ee6de47387af6b7ed765cb04f27134f8702/Apps/FinSec/FS.PNG",
+      "localizedDescription": "A powerful private completely offline finanical tool brought to by Directly from the developers of TrueArchive "
+    },
+    {
       "name": "MONOPOLY: The Board Game",
       "bundleIdentifier": "com.truearchive.monopoly",
       "developerName": "TrueArchive",
